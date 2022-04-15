@@ -1,3 +1,11 @@
+# Acknoledgement
+
+This was a tutorial for react written by Thomas Weibenfalk.  All credit for design and functionality should go to him.  Please visit his [youtube channel](https://www.weibenfalk.com) or [click here to view the video.](https://youtu.be/6bxWgYfN4CQ)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
